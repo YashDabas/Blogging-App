@@ -2,8 +2,6 @@ This is the frontend Code for the advanced blog application. It connects to a no
 The code For its backend using nodeJs,expressjs and MongoDb can be found on my repositories and it goes by the name blog-backend.
 
 ![Application screenshot](./1.png)
-> These are some of the screenshots of my blogs which have been added.
-![Application screenshot](./2.jpeg)
 
 
 
